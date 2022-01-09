@@ -25,13 +25,13 @@
 1. Make a backup for your Unifi Controller. 
 
 2. Find the neweste software build for Debian/Ubuntu Linix at: [Unifi Download](https://www.ui.com/download/unifi/)
-and copy the direct url (ex: https://dl.ui.com/unifi/5.12.35/unifi_sysvinit_all.deb)
+and copy the direct url (ex: https://dl.ui.com/unifi/6.5.55/unifi_sysvinit_all.deb)
 
 3. From the terminal via ssh or directly from your Raspberry Pi, download the unifi package with.
 
     `wget *Inset the direct url*`
     
-    *`ex: wget https://dl.ui.com/unifi/5.12.35/unifi_sysvinit_all.deb`*
+    *`ex: wget https://dl.ui.com/unifi/6.5.55/unifi_sysvinit_all.deb`*
 
 4. Install the package.
 
